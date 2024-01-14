@@ -1,0 +1,6 @@
+openai 
+numpy
+pandas
+sympy
+streamlit
+tqdm
